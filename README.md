@@ -1,14 +1,14 @@
-# UserMan2 with Community using Ajax (UserMan3a) 
+# UserMan2 
 a branch generated from with_Community_(UserMan3)   
 - adding Ajax calls to the controllers returning JSON text 
 
-### with_Community_(UserMan3) branch·ÎºÎÅÍ º¯°æµÈ Å¬·¡½º  
+### with_Community_(UserMan3) branchë¡œë¶€í„° ë³€ê²½ëœ í´ë˜ìŠ¤  
 
-- controller.RequestMapping (request mapping Á¤º¸ ¼öÁ¤ ¹× Ãß°¡)
-- controller.comm.ListCommunityController (ListAndViewCommunityController·Î ±³Ã¼: listAndView.jsp ºä ¼±ÅÃ)
-- controller.comm.ListCommunityJsonController (Ãß°¡: Ä¿¹Â´ÏÆ¼ ¸®½ºÆ® °Ë»ö ¹× JSON Çü½ÄÀ¸·Î Ãâ·Â)
-- controller.comm.ViewCommunityJsonController (Ãß°¡: Æ¯Á¤ Ä¿¹Â´ÏÆ¼ Á¤º¸ °Ë»ö ¹× JSON Çü½ÄÀ¸·Î Ãâ·Â) 
+- controller.RequestMapping (request mapping ì •ë³´ ìˆ˜ì • ë° ì¶”ê°€)
+- controller.comm.ListCommunityController (ListAndViewCommunityControllerë¡œ êµì²´: listAndView.jsp ë·° ì„ íƒ)
+- controller.comm.ListCommunityJsonController (ì¶”ê°€: ì»¤ë®¤ë‹ˆí‹° ë¦¬ìŠ¤íŠ¸ ê²€ìƒ‰ ë° JSON í˜•ì‹ìœ¼ë¡œ ì¶œë ¥)
+- controller.comm.ViewCommunityJsonController (ì¶”ê°€: íŠ¹ì • ì»¤ë®¤ë‹ˆí‹° ì •ë³´ ê²€ìƒ‰ ë° JSON í˜•ì‹ìœ¼ë¡œ ì¶œë ¥) 
 
-- WebContent/user/registerForm.jsp (ListCommunityJsonController¿¡ ´ëÇÑ Ajax È£Ãâ Ãß°¡)
-- WebContent/community/list.jsp (listAndView.jsp·Î ±³Ã¼: ViewCommunityJsonController¿¡ ´ëÇÑ Ajax È£Ãâ)
+- WebContent/user/registerForm.jsp (ListCommunityJsonControllerì— ëŒ€í•œ Ajax í˜¸ì¶œ ì¶”ê°€)
+- WebContent/community/list.jsp (listAndView.jspë¡œ êµì²´: ViewCommunityJsonControllerì— ëŒ€í•œ Ajax í˜¸ì¶œ)
 
